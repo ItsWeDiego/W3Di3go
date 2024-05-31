@@ -1,11 +1,11 @@
 <h1 align="center">
-  WeDiego Fivem Server Modules 💻
+  WeDiego W3Di3go Modules 💻
 </h1>
 <p align='center'>® 2024 / 2025</p>
 
 # [**Information** 📌](https://discord.gg/PJyVn59jgc)
 
-<p align='center'>Fivem Server Module developed by WeDiego.</p>
+<p align='center'>Module developed by WeDiego.</p>
 
 # [**Contributors** ⭐](https://discord.gg/PJyVn59jgc)
 
@@ -17,6 +17,6 @@
 
 <!-- #### **Github** : <https://github.com/W3Di3g0/FIVEM> (**Private**) -->
 <!-- #### **Discord** : <https://discord.gg/MStzt9K6GG> (**Sous ticket**) -->
-<p align='center'><a href='https://github.com/W3Di3g0/W3Di3go'>GitHub: https://github.com/W3Di3g0/FIVEM</p>
+<p align='center'><a href='https://github.com/W3Di3g0/W3Di3go'>GitHub: https://github.com/W3Di3g0/W3Di3go</p>
 
 <p align='center'><a href='https://discord.gg/MStzt9K6GG'>Discord: https://discord.gg/MStzt9K6GG</p>
