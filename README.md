@@ -1,5 +1,5 @@
 <h1 align="center">
-  WeDiego W3Di3go Modules 💻
+  ItsWeDiego(WeDiego) Modules 💻
 </h1>
 <p align='center'>® 2024 / 2025</p>
 
